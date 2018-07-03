@@ -1,2 +1,2 @@
 # GIS
-Geographic Information Systems - ArcGIS, QGIS, etc.
+Geographic Information Systems - ArcGIS, QGIS, etc. customization scripts
